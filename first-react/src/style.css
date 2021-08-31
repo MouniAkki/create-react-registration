@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(226, 117, 126);
+    text-decoration-color: burlywood;
+    text-align: left;
+  }  
+  input[type=text],input[type=email] ,input[type=password]{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(255, 249, 249);
+    color: rgb(10, 10, 10);
+    font-family: Arial, Helvetica, sans-serif;
+  } 
+  label{
+      color: rgb(14, 8, 1);
+  }
+  button {
+    background-color: rgb(69, 87, 206);
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    /* cursor: pointer; */
+    border-radius: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 22px;
+  }
